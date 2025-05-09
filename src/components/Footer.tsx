@@ -11,7 +11,7 @@ const Footer = () => {
           {/* Logo and info */}
           <div className="md:w-1/3">
             <img 
-              src="/lovable-uploads/f2a989ca-dbc6-4d5c-b40e-bacdc24e3ab2.png" 
+              src="/lovable-uploads/be46d8b6-06c6-4495-bf7e-3d6e1fa21826.png" 
               alt="Tendas Chamon" 
               className="h-16 mb-4" 
             />
